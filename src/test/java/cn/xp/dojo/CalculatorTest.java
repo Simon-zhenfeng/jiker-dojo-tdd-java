@@ -6,6 +6,7 @@ import static org.hamcrest.core.IsEqual.equalTo;
 import org.junit.Test;
 
 public class CalculatorTest {
+
     @Test
     public void should_equal_to_2_when_calculator_add_1_and_1() {
         // GIVEN
